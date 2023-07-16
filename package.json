@@ -1,0 +1,7 @@
+{
+    "name": "com.deepscorn.packagescrub",
+    "version": "0.1.0",
+    "unity": "2020.1",
+    "displayName": "PackageScrub",
+    "description": "Registers each unitypackage install. Info is written to files in PackageHistory directory. You can review files and remove"
+}
